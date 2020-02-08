@@ -4,7 +4,7 @@ Please note that the project is developed using [PLATFOMIO](https://platformio.o
 So, forst step is to download visual studio code from [Microsoft](https://code.visualstudio.com/download)
 Then download PLATFORMIO from inside Visual Studio Code.
 
-After this just download the project, and navigate to GyveLampCpp-master.
+After this just download the project, and navigate to GyverLampCpp-master.
 
 Then all the files will make sense..
 
@@ -30,11 +30,10 @@ Manual steps:
 - copy artifacts without folder structure to data_src
 
 Easy steps:
-
 - grab data_src.zip from latest release (https://github.com/CODeRUS/GyverLampCpp/releases)
 - extract to project folder
 
-Then just upload fs to module, by using the following command in a new terminal windows (in PLATFORMIO):
+Upload file system to module, by using the following command in a new terminal windows (in PLATFORMIO):
 <platformio run --target uploadfs -e nodemcu>
 Where nodemcu must be replaced with esp32dev or sonoff - according to your target.
 
