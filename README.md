@@ -1,9 +1,10 @@
 Please note that this project is work-in-progress, and just a fork from the original project by CODeRUS, please use his repository for any changes: https://github.com/CODeRUS/GyverLampCpp
-
-Please note that the project is developed using [PLATFOMIO](https://platformio.org/)
-So, forst step is to download visual studio code from [Microsoft](https://code.visualstudio.com/download)
+<br />
+Please note that the project is developed using [PLATFOMIO](https://platformio.org/).
+<br />
+First step is to download visual studio code from [Microsoft](https://code.visualstudio.com/download)
 Then download PLATFORMIO from inside Visual Studio Code.
-
+<br />
 After this just download the project, and navigate to GyverLampCpp-master.
 
 Then all the files will make sense..
