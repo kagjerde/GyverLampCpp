@@ -1,3 +1,7 @@
+Please note that this project is work-in-progress, and just a fork from the original project by CODeRUS, please use his repository for any changes: https://github.com/CODeRUS/GyverLampCpp
+
+
+
 [![Build Status](https://travis-ci.org/CODeRUS/GyverLampCpp.svg?branch=master)](https://travis-ci.org/CODeRUS/GyverLampCpp)
 <br />
 You can download latest build with artifacts from GitHub [Releases](https://github.com/CODeRUS/GyverLampCpp/releases) page
